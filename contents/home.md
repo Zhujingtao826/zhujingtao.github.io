@@ -1,0 +1,14 @@
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+
+我是2023级安徽农业大学数据科学与大数据技术专业的本科生，以下是我的个人建立。
+
+#### Email  
+<code>c_jingtaozhu@163.com</code>  
+
+
+#### Education  
+**安徽农业大学**, 数据科学与大数据技术专业
+• GPA: 4.35/5  
+• CET-4: 511  CET-6：468  
+#### Research Interests  
+深度学习、机器学习、自然语言处理、计算机视觉、自动化控制（最优控制、复杂网络控制）
