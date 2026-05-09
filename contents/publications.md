@@ -1,5 +1,5 @@
 - Jingtao Zhu, Song Ling, Low order and higher order 𝜖 type disturbance observers with faster convergence and smaller
-observer gain, European Journal of Control. [Major Revision(2026.5.9)](本人一作 导师通讯)
+observer gain, European Journal of Control. [Major Revision(2026.5.3)](本人一作 导师通讯)
 
 - Jingtao Zhu, Cheng Peng, Song Liang, A Modified DBSCAN Algorithm : Clustering of Multiple Intersecting Straight
 Lines. [待投稿，预计5月底投稿] （本人一作 导师通讯）
